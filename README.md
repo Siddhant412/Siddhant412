@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm Siddhant Raje 👋
+
+MS in Software Engineering @ San Jose State University (Expected May 2026)  
+Backend Engineer | Distributed Systems | AI/LLM Applications
+
+I build scalable backend systems, developer platforms, and AI-powered applications.
 
 <!--
 **Siddhant412/Siddhant412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
